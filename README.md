@@ -10,7 +10,7 @@ Use gQuery™ to execute functions on document load.
 
 ````javascript
 S(function() {
-    console.log('gQuery™ is the best !');
+    console.log('gQuery™ is the best!');
 });
 ````
 
